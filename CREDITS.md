@@ -19,4 +19,4 @@ Last updated: 03/03/2026
 - "Military FREE - Low Poly 3D Models Pack" by ithappy, Source: [Fab](https://fab.com/s/ac5f4eb76834), License: [Fab Standard License](https://www.fab.com/eula), Unmodified
 
 ### Mixamo Assets
-- "Joe"
+- "Joe" from Mixamo, Source: [Mixamo](https://www.mixamo.com/#/?page=1&query=Joe&type=Character), License: [Adobe Mixamo Allowance](https://community.adobe.com/questions-696/mixamo-faq-licensing-royalties-ownership-eula-and-tos-589400), Unmodified
